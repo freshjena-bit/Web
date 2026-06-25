@@ -19,3 +19,12 @@ body {
   background: #334155;
   border-radius: 10px;
 }
+
+.dark body {
+  background: #020617;
+  color: white;
+}
+
+body {
+  transition: .3s;
+}
