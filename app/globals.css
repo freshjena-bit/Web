@@ -28,3 +28,14 @@ body {
 body {
   transition: .3s;
 }
+
+body{
+  background:
+  radial-gradient(
+    circle at top,
+    #1e293b,
+    #020617
+  );
+
+  color:white;
+}
