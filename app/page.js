@@ -1,3 +1,4 @@
+import Footer from "@/components/Footer";
 import Sidebar from "@/components/Sidebar";
 import Topbar from "@/components/Topbar";
 import StatsCard from "@/components/StatsCard";
@@ -22,6 +23,7 @@ export default function Home() {
             <StatsCard title="Reports" value="210" />
           </div>
         </div>
+       <Footer />
       </main>
     </div>
   );
